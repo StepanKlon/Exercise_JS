@@ -16,7 +16,7 @@ names.push("Věra");
 names[0] = "Štěpán";
 mujPrvniObjekt.hasManyColors = mujPrvniObjekt.colors.length > 3;
 
-
+console.log("Mé jméno je Štěpán")
 console.log(mujPrvniObjekt);
 console.log("Je mi: " + age + " let");
 console.log("Druhá svtová válka trvala: " + ww2 + " let");
